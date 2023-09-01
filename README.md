@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DA280)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DA280)
 
-# DA280 - Build an Integrated Planning Scenario with Data and Analytics Solutions
+# DA280 :D -Build an Integrated Planning Scenario with Data and Analytics Solutions
 
 ## Description
 
