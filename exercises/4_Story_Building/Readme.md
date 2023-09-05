@@ -3,8 +3,7 @@
 # Exercise 4 - Story Building
 Now that we have imported the data from SAP Datawarehouse Cloud (DWC) to our SAP Analytics Cloud (SAC) planning model, we can start building a table on top of the imported data. For that, we go to Files, navigate to our TechEd folder under My Files and open the story SAP__FI_CLM_LIQUIDITY_PLANNING. 
 
-On the first page (Liquidity Overview), we can see the financial data visualized with different charts and key figures.
-The second page (Liquidity Planning) is empty and we will now fill it. 
+We will now fill the page Liquidity Planning. 
 
 ## Exercise 4.1 Create the first table
 
