@@ -5,7 +5,7 @@ In this exercise, you will include the previously created Multi Action for Time 
 
 After completing these steps you will have knowledge of how to involve Data Actions and Multi Actions into a story using an action trigger event.
 
-1. In this exercise, the "SAP__FI_CLM_LIQUIDITY_PLANNING" Story is used. This File can be found in the MyFiles folder copied from the "TechEd2022_DA280_SampleContent" as "TechEd2022_DA280_#Lastname" in the prior exercises.
+1. In this exercise, the "SAP__FI_CLM_LIQUIDITY_PLANNING" Story is used. This File can be found in the MyFiles folder copied from the HackXperience sample content in the prior exercises.
 
 ![Exercise8_01](https://user-images.githubusercontent.com/112930664/202113235-af831d1b-ce88-4007-a411-52d6abc04fd5.png)
 
@@ -21,7 +21,7 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 ![Exercise8_04](https://user-images.githubusercontent.com/112930664/202113242-aa140fc5-35f1-4e6f-9cb7-dffe75679c3a.png)
 
-5. For including the prior created Multi Action into the Planning Trigger, you can add the underlying Multi Action through the Builder Panel. There you can also add a Label "Run Predictive Liquidity Forecast" for the Multi Action Event Trigger. For the Multi Action, select the "Predictive Liquidity Forecast" you have created before as part of this TechEd Demo.
+5. For including the prior created Multi Action into the Planning Trigger, you can add the underlying Multi Action through the Builder Panel. There you can also add a Label "Run Predictive Liquidity Forecast" for the Multi Action Event Trigger. For the Multi Action, select the "Predictive Liquidity Forecast" you have created before as part of this HackXperience Demo.
 
 ![](/exercises/8_Story_Building_Forecasting_Planning/images/8_MA.png)
 
