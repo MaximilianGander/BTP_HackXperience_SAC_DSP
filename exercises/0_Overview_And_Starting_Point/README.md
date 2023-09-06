@@ -5,7 +5,7 @@ Also, you will learn about the pre-configured elements that have been prepared b
 Lastly, you can find a short introduction about the most important involed product functionalities. 
 
 - [0.1 - Architecture](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#01---architecture)
-- [0.2 - SAP Datasphere - Data Builder and S/4 Actual Data](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#02---sap-data-warehouse-cloud---data-builder-and-s4-actual-data)
+- [0.2 - SAP Datasphere - Data Builder and S/4 Actual Data](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#02---sap-datasphere---data-builder-and-s4-actual-data)
 - [0.3 - SAP Datasphere - Data Marketplace](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#03---sap-data-warehouse-cloud---data-marketplace)
 - [0.4 - Bi-directional Integration for Planning](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#04---bi-directional-integration-for-planning)
 - [0.5 - Modelling in SAP Analytics Cloud - Liquidity Planning Model](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#05---modelling-in-sap-analytics-cloud---liquidity-planning-model)
