@@ -10,41 +10,15 @@ In this short exercise, we will create a connection from SAP Analytics Cloud to 
 
 3. Last but not least, we need to configure the details:
 
-If your SAP Analytics Cloud URL includes **EU10** (e.g. https://academy-t-sac.eu10.hcs.cloud.sap/):
-- Connection Name: DA280_<your_sac_user_id>
-- Data Service URL: https://academy-t-dwc.eu10.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
+- Connection Name: HackXperience_<your_sac_user_id>
+- Data Service URL: https://ai-sandbox-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
 - Authentication Type: OAuth 2.0 Authorization Code
-- OAuth Client ID: sb-d6553ac5-f665-49c6-8ad8-6ca2475ffba0!b130523|client!b3650
-- Secret: bf2c0794-1eb0-4ae2-bf8b-f00a1abd7805$glUM5UWsx4lHGcpBEHmICF6JP4xqhv_4mYtiT9wrqCA=
-- Token URL: https://academy-t-dwc.authentication.eu10.hana.ondemand.com/oauth/token 
-- Authorization URL: https://academy-t-dwc.authentication.eu10.hana.ondemand.com/oauth/authorize
+- OAuth Client ID: sb-c02d7def-a122-4123-bc8a-52d162983e5f!b35000|client!b655
+- Secret: 640b48a1-0a01-4420-9d3f-64a09ca302e3$GPOj4Uf2ufgKfAzwN1d6VUKlAdC6M6yi9CPihG46QXs=
+- Token URL: https://ai-sandbox-dwc.authentication.us10.hana.ondemand.com/oauth/token 
+- Authorization URL: https://ai-sandbox-dwc.authentication.us10.hana.ondemand.com/oauth/authorize
 
-An example for the Data Service URL would be: https://academy-t-dwc.eu10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer  
-<br>
-<br>
-If your SAP Analytics Cloud URL includes **US10** (e.g. https://academy-t-sac.us10.hcs.cloud.sap/):
-- Connection Name: DA280_<your_sac_user_id>
-- Data Service URL: https://academy-t-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
-- Authentication Type: OAuth 2.0 Authorization Code
-- OAuth Client ID: sb-26782ba9-1e24-4a70-ba59-51713a91ac5a!b65895|client!b655
-- Secret: d309d6b7-1514-40cb-9518-dfbc2ddcca7f$NN4Mpm18BE0nVEof9UMy5ofF5xUazwJnVY7OMe0xloQ=
-- Token URL: https://academy-t-dwc.authentication.us10.hana.ondemand.com/oauth/token 
-- Authorization URL: https://academy-t-dwc.authentication.us10.hana.ondemand.com/oauth/authorize
-
-An example for the Data Service URL would be: https://academy-t-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer 
-<br>
-<br>
-
-If your SAP Analytics Cloud URL includes **AP11** (e.g.https://academy-t-sac.ap11.hcs.cloud.sap/):
-- Connection Name: DA280_<your_sac_user_id>
-- Data Service URL: https://academy-t-dwc.ap11.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
-- Authentication Type: OAuth 2.0 Authorization Code
-- OAuth Client ID: sb-623ccfb1-8e5f-4c33-a10b-939703e77848!b853|client!b23
-- Secret: bbf8384b-cd9e-4f7a-9958-2a54b2254de7$z3TuigvJ7ExsOr4Fk1kFn-GHCzdUPO7BwbTKR4rSuEk=
-- Token URL: https://academy-t-dwc.authentication.ap11.hana.ondemand.com/oauth/token 
-- Authorization URL: https://academy-t-dwc.authentication.ap11.hana.ondemand.com/oauth/authorize
-
-An example for the Data Service URL would be: https://academy-t-dwc.ap11.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer 
+An example for the Data Service URL would be: https://ai-sandbox-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/HACKXPERIENCE/U_Test  
 
 <br>![](/exercises/2_Connect_to_DWC/images/03_Configuration.JPG)
 
