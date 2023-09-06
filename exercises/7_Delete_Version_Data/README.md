@@ -12,10 +12,10 @@ After completing these steps you will have created a Data Action with an advance
 2. When entering a name within the Data Action Settings Panel, please make sure to add your Lastname as a suffix (Delete_Predictive_Forecast_Lastname). 
 Before we can add any steps to the Data Action, we have to choose the correct model. 
 This can either be done by selecting "COPY_SAP__FI_CLM_IM_LIQUIDITY_PLANNING" (if the model shown in your own folder under My Files is displayed here already) or by clicking on "Select Other Model ..." if the prior option is not available. 
-Please make sure to select the planning model you created in your TechEd folder in My Files.
+Please make sure to select the planning model you created in your HackXperience folder in My Files.
 ![](/exercises/7_Delete_Version_Data/images/7_Name_New.png)
  
-Please make sure to select the planning model you created in your TechEd folder in My Files. 
+Please make sure to select the planning model you created in your HackXperience folder in My Files. 
 ![](/exercises/7_Delete_Version_Data/images/7_ModelSelection.png)
 
 3. To include a deletion step to the newly created Data Action, please choose the Advanced Formulas Step from the "Add Step" menu above.
