@@ -24,7 +24,7 @@ The requirements to follow the exercises in this repository are:
 
 - SAP SAC tenant
 
-- SAP DWC tenant
+- SAP DSP tenant
 
 The above requirements have already been met and have been pre-created by SAP. [Follow this instruction to register for our tenants!](exercises/00_Register) The tenants will be available until December 16, 2022.
 
@@ -42,14 +42,14 @@ Here you find direct jumps to the distinct exercises:
 
 - [Exercise 0 - Overview and Starting Point](exercises/0_Overview_And_Starting_Point/)
 - [Exercise 1 - Combining External and Internal Data in SAP Datasphere](exercises/1_DataMarketplace/)
-- [Exercise 2 - Connect to DWC](exercises/2_Connect_to_DWC/)
+- [Exercise 2 - Connect to DSP](exercises/2_Connect_to_DSP/)
 - [Exercise 3 - Copy planning model and load data](exercises/3_Copy_Model_and_Import_Data/)
 - [Exercise 4 - Story Building](exercises/4_Story_Building/)
 - [Exercise 5 - Create a Smart Predict Scenario](exercises/5_Create_A_Smart_Predict_Scenario/)
 - [Exercise 6 - Create a Multi Action](exercises/6_Create_A_Multi_Action/)
 - [Exercise 7 - Delete version data before running the prediction](exercises/7_Delete_Version_Data/)
 - [Exercise 8 - Story Building & forecasting/planning](exercises/8_Story_Building_Forecasting_Planning/)
-- [Exercise 9 - Export to DWC](exercises/9_Export_to_DWC/)
+- [Exercise 9 - Export to DSP](exercises/9_Export_to_DSP/)
 
 ## Learn More
 To learn more about SAP Analytics Cloud, refer to the following sources of information:
@@ -69,4 +69,4 @@ To learn more about the bi-directional integration between SAP Analytics Cloud a
 We posted some FAQs on the [issues tab](https://github.com/SAP-samples/teched2022-DA280/issues). If your question is not answered there, support for the content in this repository is available during the actual time of the online session via the broadcasting platform. After the online session, you may raise your question via the [issues](../../issues) tab. 
 
 ## License
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
