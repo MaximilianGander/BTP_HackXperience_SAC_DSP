@@ -6,11 +6,11 @@ Lastly, you can find a short introduction about the most important involed produ
 
 - [0.1 - Architecture](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#01---architecture)
 - [0.2 - SAP Datasphere - Data Builder and S/4 Actual Data](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#02---sap-datasphere---data-builder-and-s4-actual-data)
-- [0.3 - SAP Datasphere - Data Marketplace](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#03---sap-data-warehouse-cloud---data-marketplace)
-- [0.4 - Bi-directional Integration for Planning](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#04---bi-directional-integration-for-planning)
-- [0.5 - Modelling in SAP Analytics Cloud - Liquidity Planning Model](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#05---modelling-in-sap-analytics-cloud---liquidity-planning-model)
-- [0.6 - Stories in SAP Analytics Cloud](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#06---stories-in-sap-analytics-cloud)
-- [0.7 - What else will you learn?](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/0_Overview_And_Starting_Point/README.md#07---what-else-will-you-learn)
+- [0.3 - SAP Datasphere - Data Marketplace](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#03---sap-data-warehouse-cloud---data-marketplace)
+- [0.4 - Bi-directional Integration for Planning](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#04---bi-directional-integration-for-planning)
+- [0.5 - Modelling in SAP Analytics Cloud - Liquidity Planning Model](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#05---modelling-in-sap-analytics-cloud---liquidity-planning-model)
+- [0.6 - Stories in SAP Analytics Cloud](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#06---stories-in-sap-analytics-cloud)
+- [0.7 - What else will you learn?](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#07---what-else-will-you-learn)
 
 ## 0.1 - Architecture
 <br>![](/exercises/0_Overview_And_Starting_Point/images/TechEd2022_Architecture.png)
@@ -88,7 +88,7 @@ Planning models are prepared and preconfigured to help you perform business plan
 - Auditing features for traceability.
 - Security features that make it possible for you to restrict access to specific values in data grids to named individuals.
 
-More information on modeling can be found within our [Learn More materials](https://github.com/SAP-samples/teched2022-DA280#learn-more)
+More information on modeling can be found within our [Learn More materials](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP#learn-more)
 
 For our workshop, we have prepared a simple planning model that you will copy later on to load and manipulate data. 
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.5_LiquidityModel.png)
