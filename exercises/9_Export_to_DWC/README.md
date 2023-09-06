@@ -22,7 +22,7 @@ An OAuth Client has already been set up in SAP Analytics Cloud. You need its cre
 4. Enter the OAuth Client ID and its secret.
 <br>![](/exercises/9_Export_to_DWC/images/8_7.png)
 
-5. In the next step, provide a name for the connection (e.g. SAC_DWC_TechEd_DA280) and create it. 
+5. In the next step, provide a name for the connection (e.g. SAC_DSP_HackXperience) and create it. 
 <br>![](/exercises/9_Export_to_DWC/images/8_8.png)
 
 6. Now, navigate to the Data Builder (you remember that from our first exercises) and create a new Data Flow.
