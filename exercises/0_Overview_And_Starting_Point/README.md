@@ -4,16 +4,8 @@ In this exercise, you will learn about the high-level architecture of the artefa
 Also, you will learn about the pre-configured elements that have been prepared by SAP to facilitate the workshop. 
 Lastly, you can find a short introduction about the most important involed product functionalities. 
 
-- [0.1 - Architecture](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#01---architecture)
-- [0.2 - SAP Datasphere - Data Builder and S/4 Actual Data](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#02---sap-datasphere---data-builder-and-s4-actual-data)
-- [0.3 - SAP Datasphere - Data Marketplace](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#03---sap-data-warehouse-cloud---data-marketplace)
-- [0.4 - Bi-directional Integration for Planning](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#04---bi-directional-integration-for-planning)
-- [0.5 - Modelling in SAP Analytics Cloud - Liquidity Planning Model](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#05---modelling-in-sap-analytics-cloud---liquidity-planning-model)
-- [0.6 - Stories in SAP Analytics Cloud](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#06---stories-in-sap-analytics-cloud)
-- [0.7 - What else will you learn?](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#07---what-else-will-you-learn)
-
 ## 0.1 - Architecture
-<br>![](/exercises/0_Overview_And_Starting_Point/images/Exercise_Architecture.png)
+<br>![](/exercises/0_Overview_And_Starting_Point/images/ExerciseArchitecture.png)
 
 This workshop takes place in SAP Datasphere and SAP Analytics Cloud. First of all, internal data is combined with external data from the Data Marketplace. Afterwards, a connection to SAP Analytics Cloud is set up using the DSP Public Consumption API. After loading the data from the previously created union to SAP Analytics Cloud, a story in SAP Analytics Cloud is enriched with the respective tables for data entry and simulation before we then create the needed objects like the predictive scenario, multi actions and data actions. After running the prediction and saving the results into a planning version, we set up a connection and load data to SAP Datasphere using the Data Export Service offered by SAP Analytics Cloud. 
 
