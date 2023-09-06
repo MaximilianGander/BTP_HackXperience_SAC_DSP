@@ -1,4 +1,4 @@
-# 9 - Export to DSP
+# 9 - Export to Datasphere
 We now want to export the generated plan data from SAP Analytics Cloud to SAP Datasphere. The plan data could be used for downstream processing and combined plan vs. ACT reporting there. 
 
 ## 9.1 - OAuth Client in SAP Analytics Cloud
