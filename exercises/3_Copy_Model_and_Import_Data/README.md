@@ -1,5 +1,5 @@
 # Exercise 3 - Copy the planning model and load the data
-In this exercise, we will copy the planning model from the sample content into our own folder and import the actual data and influencers from SAP Data Warehouse Cloud (DWC). For this, we will use an existing connection to DWC and create an data import job in the planning model.
+In this exercise, we will copy the planning model from the sample content into our own folder and import the actual data and influencers from SAP Datasphere (DSP). For this, we will use an existing connection to DSP and create an data import job in the planning model.
 
 ## Exercise 3.1 Copy the planning model
 
@@ -7,28 +7,28 @@ In this exercise, we will copy the planning model from the sample content into o
 
 ![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
 
-2. Next, we navigate to the Public folder, where we can find the TechEd sample content.
+2. Next, we navigate to the Public folder, where we can find the HackXperience sample content.
 This folder contains the story and data model which we will use as the basis for the next exercises.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot02.png)
 
 
-3. Therefore we copy the TechEd sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
+3. Therefore we copy the HackXperience sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot03.png)
  
-4. In the pop-up box we change the folder name to TechEd2022_DA280_[yourlastname] (please replace [yourlastname] with your last name!) and save the copied folder to My Files
+4. In the pop-up box we change the folder name to HackXperience_[yourlastname] (please replace [yourlastname] with your last name!) and save the copied folder to My Files
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot18.png)
 
 ## Exercise 3.2 Import data
 
-1. Now let's load the data from SAP Data Warehouse Cloud into our SAP Analytics Cloud (SAC) model and build a table on top of it. We navigate into our copied sample content folder (**navigate from Public to My Files**) and open the model (COPY_SAP__FI_CLM_IM_LIQUIDITY_PLANNING).
+1. Now let's load the data from SAP Datasphere into our SAP Analytics Cloud (SAC) model and build a table on top of it. We navigate into our copied sample content folder (**navigate from Public to My Files**) and open the model (COPY_SAP__FI_CLM_IM_LIQUIDITY_PLANNING).
 
 2. We switch to the Data Management View of the model where we can create the Import Job.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot06.png)
 
-3. By clicking on "Import Data" we can choose whether to import data from a flat file, e.g. a csv or choose an existing connection to a data source to import data from. In our case, we already have a connection to DWC so we select "Data source".
+3. By clicking on "Import Data" we can choose whether to import data from a flat file, e.g. a csv or choose an existing connection to a data source to import data from. In our case, we already have a connection to DSP so we select "Data source".
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot07.png)
 
@@ -75,7 +75,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot17.png)
 
-Thereby, you successfully imported data from DWC to SAC, congratulations! Any yellow warnings can be ignored. These are due to null values in one of the files uploaded to DWC. This has no negative impact going forward.
+Thereby, you successfully imported data from DSP to SAC, congratulations! Any yellow warnings can be ignored. These are due to null values in one of the files uploaded to DSP. This has no negative impact going forward.
 
 
 ## Summary
