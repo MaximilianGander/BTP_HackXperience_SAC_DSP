@@ -4,7 +4,7 @@
 
 ## Disclaimer
 
-This exercise re-uses a TechEd 2022 hands-on workshop. This is why you will occasionally face the old product name SAP Data Warehouse Cloud (or DWC) instead of SAP Datasphere where efforts to replace were too high. Also, screenshots may still refer to files and folders used for TechEd. In these cases, please follow the written instructions that belong to these screenshots. They have been updated.  
+This exercise re-uses a TechEd 2022 hands-on workshop. This is why you will occasionally face the old product name SAP Data Warehouse Cloud (or DWC) instead of SAP Datasphere where efforts to replace were too high. Also, screenshots may still refer to files and folders used for TechEd. In these cases, please follow the written instructions that belong to these screenshots. They have been updated where required. 
 
 ## Description
 
