@@ -13,7 +13,7 @@ Lastly, you can find a short introduction about the most important involed produ
 - [0.7 - What else will you learn?](https://github.com/MaximilianGander/BTP_HackXperience_SAC_DSP/blob/main/exercises/0_Overview_And_Starting_Point/README.md#07---what-else-will-you-learn)
 
 ## 0.1 - Architecture
-<br>![](/exercises/0_Overview_And_Starting_Point/images/TechEd2022_Architecture.png)
+<br>![](/exercises/0_Overview_And_Starting_Point/images/Exercise_Architecture.png)
 
 This workshop takes place in SAP Datasphere and SAP Analytics Cloud. First of all, internal data is combined with external data from the Data Marketplace. Afterwards, a connection to SAP Analytics Cloud is set up using the DSP Public Consumption API. After loading the data from the previously created union to SAP Analytics Cloud, a story in SAP Analytics Cloud is enriched with the respective tables for data entry and simulation before we then create the needed objects like the predictive scenario, multi actions and data actions. After running the prediction and saving the results into a planning version, we set up a connection and load data to SAP Datasphere using the Data Export Service offered by SAP Analytics Cloud. 
 
