@@ -60,9 +60,9 @@ To learn more about SAP Analytics Cloud, refer to the following sources of infor
 - 	https://open.sap.com/courses/sac5 
 
 To learn more about SAP Datasphere, refer to the following sources of information:
-- https://developers.sap.com/mission.data-warehouse-cloud-get-started.html 
-- https://community.sap.com/topics/data-warehouse-cloud/getting-started
-- https://open.sap.com/courses/dsp1-1
+- [Get Started with Your Trial in SAP Datasphere](https://developers.sap.com/mission.data-warehouse-cloud-get-started.html/) 
+- [Getting Started with SAP Datasphere](https://community.sap.com/topics/data-warehouse-cloud/getting-started/)
+- [Open Course SAP Datasphere](https://open.sap.com/courses/dsp1-1/)
 
 To learn more about the bi-directional integration between SAP Analytics Cloud and SAP Datasphere for planning, refer to these sources of information:
 - [Blog post: Introducing the Bi-Directional Integration of SAP Datasphere and SAP Analytics Cloud for Planning](https://blogs.sap.com/2022/06/21/introducing-the-bi-directional-integration-of-sap-data-warehouse-cloud-and-sap-analytics-cloud-for-planning/?preview_id=1561485)
