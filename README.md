@@ -29,7 +29,10 @@ The requirements to follow the exercises in this repository are:
 
 - SAP DSP tenant
 
-The above requirements have already been met and have been pre-created by SAP. [Follow this instruction to register for our tenants!](exercises/00_Register) The tenants will be available until December 16, 2022.
+The above requirements have already been met as you should have been assigned to our tenants:
+- [SAP Datasphere tenant](https://ai-sandbox-dwc.us10.hcs.cloud.sap/dwaas-ui/index.html#/databuilder&/db/HACKXPERIENCE)
+- [SAP Analytics Cloud tenant](https://sacgo-1.us10.sapanalytics.cloud/sap/fpa/ui/app.html#/home) 
+
 
 Apart from that, we recommend basic proficiency with modeling and story building in SAP Analytics Cloud and basic proficiency with SAP Datasphere. However, the exercises are suitable for everyone if the materials recommended in the 'Learn More' section are considered.
 
