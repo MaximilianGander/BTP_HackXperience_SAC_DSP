@@ -52,7 +52,7 @@ Here you find direct jumps to the distinct exercises:
 - [Exercise 6 - Create a Multi Action](exercises/6_Create_A_Multi_Action/)
 - [Exercise 7 - Delete version data before running the prediction](exercises/7_Delete_Version_Data/)
 - [Exercise 8 - Story Building & forecasting/planning](exercises/8_Story_Building_Forecasting_Planning/)
-- [Exercise 9 - Export to DSP](exercises/9_Export_to_DSP/)
+- [Exercise 9 - Export to DSP](exercises/9_Export_to_DWC/)
 
 ## Learn More
 To learn more about SAP Analytics Cloud, refer to the following sources of information:
