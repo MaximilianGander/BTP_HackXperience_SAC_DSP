@@ -47,7 +47,7 @@ Ignore any yellow warning message on the Union. This is due to a minor mistake i
 
 2. Finally, let us navigate to the output node and define the view properties. Let us adapt the following: 
 
-  - Business_Name: "V Union Actuals and Influencer"
+  - Business_Name: "V Union Actuals and Influencer_YOUR LAST NAME"
   - Semantic Usage: "Analytical Dataset"
   - Expose for Consumption: Enabled
   - Measures: "Amount"
