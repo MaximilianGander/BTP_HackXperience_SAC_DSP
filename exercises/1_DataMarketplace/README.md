@@ -60,5 +60,7 @@ Note: The OData API for SAP DSP only provides access to DSP artefacts which are 
 3. One last action: Let us deploy the Analytical Dataset. 
 <br>![](/exercises/1_DataMarketplace/images/08-Deploy.png)
 
+Note that you will be informed that Analytic Models are the new way to go to prepare data for consumption in Datasphere. That is true but in this exercise we are still using the analytical datasets as it was created back in 2022 already.
+
 You have now successfully created a consumable view in SAP Datasphere. Let us now navigate to SAP Analytics Cloud and continue with - [Exercise 2 - Connect to DSP](/exercises/2_Connect_to_DWC/)
 
