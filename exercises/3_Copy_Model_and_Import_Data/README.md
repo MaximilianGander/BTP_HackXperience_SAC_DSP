@@ -22,7 +22,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ## Exercise 3.2 Import data
 
-1. Now let's load the data from SAP Datasphere into our SAP Analytics Cloud (SAC) model and build a table on top of it. We navigate into our copied sample content folder (**navigate from Public to My Files**) and open the model (COPY_SAP__FI_CLM_IM_LIQUIDITY_PLANNING).
+1. Now let's load the data from SAP Datasphere into our SAP Analytics Cloud (SAC) model and build a table on top of it. We navigate into our copied sample content folder (**navigate from Public to My Files**) and open the model (SAP__FI_CLM_IM_LIQUIDITY_PLANNING).
 
 2. We switch to the Data Management View of the model where we can create the Import Job.
 
@@ -40,7 +40,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot09.JPG)
 
-6. Now we create a new query for the OData Service and set the name to "V_Union_Actuals_and_Influencer" and select the corresponding table. Proceed with "Next".
+6. Now we create a new query for the OData Service and set the name to "V_Union_Actuals_and_Influencer_YOUR LAST NAME" and select the corresponding table. Proceed with "Next".
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot10.png)
 
