@@ -45,33 +45,34 @@ This folder contains the story and data model which we will use as the basis for
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot10.png)
 
 
-7. In this view we can see the dimensions and measures the table consists of. We could select individual dimensions and measures in the query however in this case, we want to include the whole table. Using drag and drop we can simply drag the table to the "Selected Data" area and drop it there. Now all 10 dimensions and measures are included in the result set. To confirm we press "Create". The system now sets up the import job in the background and lets us know as soon as it is created.
+7. In this view we can see the dimensions and measures the table consists of. We could select individual dimensions and measures in the query however in this case, we want to include the whole table. Using drag and drop we can simply drag the table to the "Selected Data" area and drop it there. Now all 10 dimensions and measures are included in the result set. 
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot11.png)
 
+8. We add a filter on AmountUnit by dragging and dropping the object to the filter section. We then filter on EUR, USD, GBP, and CHF (not the blank value) and save. To confirm the overall import job generation, we press "Create". The system now sets up the import job in the background and lets us know as soon as it is created.
 
-8. Once the import job is created we can set up the import.
+9. Once the import job is created we can set up the import.
 
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot12.png)
 
-9. The first view which is shown is the data preparation step. Here we could resolve data quality issues before the mapping step, but also wrangle data and make edits such as renaming columns, create transformations, etc. In our case, we can skip this step clicking "Next" and proceed with the mapping.
+10. The first view which is shown is the data preparation step. Here we could resolve data quality issues before the mapping step, but also wrangle data and make edits such as renaming columns, create transformations, etc. In our case, we can skip this step clicking "Next" and proceed with the mapping.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot13.png)
 
-10. In the next step, the mapping between source and target columns is defined. The system already did most of the mapping for us, so we only have to map the "TIMEMONTH" column to the "Time" column. This can be done by dragging the TIMEMONTH column onto the blank source space of the Time column. Once this is done, we click on "Next".
+11. In the next step, the mapping between source and target columns is defined. The system already did most of the mapping for us, so we only have to map the "TIMEMONTH" column to the "Time" column. This can be done by dragging the TIMEMONTH column onto the blank source space of the Time column. Once this is done, we click on "Next".
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot14.png)
 
-11. In the Dimension Properties view, we can add descriptions by mapping the description members of our source column to respective target column. The mapping is shown in the screenshot below. Once this is done, we click on "Next". The system now validates the mappings and if no errors are found we can proceed to run the import.
+12. In the Dimension Properties view, we can add descriptions by mapping the description members of our source column to respective target column. The mapping is shown in the screenshot below. Once this is done, we click on "Next". The system now validates the mappings and if no errors are found we can proceed to run the import.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot15.png)
 
-12. We click on "Run Import" and choose "Finish". 
+13. We click on "Run Import" and choose "Finish". 
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot16.png)
 
-13. The data is now being imported into SAC. Once the process is finished, the status bar on the right shows information about the date and duration time of the import process and number of rows which have been imported. 
+14. The data is now being imported into SAC. Once the process is finished, the status bar on the right shows information about the date and duration time of the import process and number of rows which have been imported. 
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot17.png)
 
