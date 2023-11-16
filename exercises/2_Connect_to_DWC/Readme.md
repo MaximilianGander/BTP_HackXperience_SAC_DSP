@@ -14,8 +14,8 @@ In this short exercise, we will create a connection from SAP Analytics Cloud to 
 - Data Service URL: https://ai-sandbox-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
  <br>Example: https://ai-sandbox-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/HACKXPERIENCE/V_Union_Actuals_and_Influencer_GANDER --> watch out for the space name in caps!
 - Authentication Type: OAuth 2.0 Authorization Code
-- OAuth Client ID: sb-c02d7def-a122-4123-bc8a-52d162983e5f!b35000|client!b655
-- Secret: 640b48a1-0a01-4420-9d3f-64a09ca302e3$GPOj4Uf2ufgKfAzwN1d6VUKlAdC6M6yi9CPihG46QXs=
+- OAuth Client ID: sb-17b02d9d-64a4-4de1-ab42-3c5ae4b5096d!b35000|client!b655
+- Secret: 2d1f76b9-889d-42e8-bf0c-96b869b674c3$4CBqSodSMRWS5oERTNv5zhnCepYUdvZQv1wf7Cr2LUs=
 - Token URL: https://ai-sandbox-dwc.authentication.us10.hana.ondemand.com/oauth/token 
 - Authorization URL: https://ai-sandbox-dwc.authentication.us10.hana.ondemand.com/oauth/authorize
 
