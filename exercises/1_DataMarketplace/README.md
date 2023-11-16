@@ -2,7 +2,7 @@
 
 ## Exercise 1.1 Acquiring Data from SAP Datasphere
 
-*!! Please note, that the external data has already been loaded to our HackXperience space. This cannot be repeated within the same space, so exercise 1.1 is for your information only.!!*
+**!! Please note, that the external data has already been loaded to our HackXperience space. This cannot be repeated within the same space, so exercise 1.1 is for your information only.!!**
 
 In this exercise, we first look for external data on energy prices in the Data Marketplace of SAP Datasphere. We will then combine this data with our internal cash flow statement actuals and create a consumable view. 
 
