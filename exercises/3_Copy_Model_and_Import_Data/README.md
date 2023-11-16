@@ -51,8 +51,11 @@ This folder contains the story and data model which we will use as the basis for
 
 8. We add a filter on AmountUnit by dragging and dropping the object to the filter section. We then filter on EUR, USD, GBP, and CHF (not the blank value) and save. To confirm the overall import job generation, we press "Create". The system now sets up the import job in the background and lets us know as soon as it is created.
 
-9. Once the import job is created we can set up the import.
+![](/exercises/3_Copy_Model_and_Import_Data/images/Query_Filter.png)
+![](/exercises/3_Copy_Model_and_Import_Data/images/AmountUnit.png)
+![](/exercises/3_Copy_Model_and_Import_Data/images/SaveQuery.png)
 
+9. Once the import job is created we can set up the import.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot12.png)
 
