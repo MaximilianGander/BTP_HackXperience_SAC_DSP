@@ -7,17 +7,16 @@ In this exercise, we will copy the planning model from the sample content into o
 
 ![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
 
-2. Next, we navigate to the Public folder, where we can find the HackXperience sample content.
+2. Next, we navigate to the Public folder, where we can find the sample content in folder TechEd2022_DA280_SampleContent.
 This folder contains the story and data model which we will use as the basis for the next exercises.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot02.png)
 
-
-3. Therefore we copy the HackXperience sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
+3. Therefore we copy the sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot03.png)
  
-4. In the pop-up box we change the folder name to HackXperience_[yourlastname] (please replace [yourlastname] with your last name!) and save the copied folder to My Files
+4. In the pop-up box we change the folder name to TechEd2022_DA280_[yourlastname] (please replace [yourlastname] with your last name!) and save the copied folder to My Files
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot18.png)
 
 ## Exercise 3.2 Import data
