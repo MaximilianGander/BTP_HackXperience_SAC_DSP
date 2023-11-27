@@ -36,12 +36,12 @@ In Exercise 1.2 you will create an Analytical Dataset in SAP DSP, which combines
 
 1. Now that we have acquired the external data and made it accessible in our space, let us now combine it with our internal data. To do so, let us create a new graphical view and **union** "V_Energy_Prices_TechEd_Demo" with our actuals data in "T_S4_ACT". 
 
-- First, drag and drop the "T_S4_ACT" table into the canvas (the table is available under Shared Objects / Tables)
+- First, drag and drop the "T_S4_ACT" table into the canvas.
 - Afterwards, select the "V_Energy_Prices_TechEd_Demo" table from the leftside panel and hover it over the first table on the canvas. DSP will suggest you three options (UNION, JOIN or REPLACE), from which you will select the first one (UNION).
 - Note that DSP is smart and already mapped all columns from the first table to those columns from the second table with the same business name. You will need to manually map both sides only for the "version" column. 
 
 The result should look like the following: 
-<br>![](/exercises/1_DataMarketplace/images/1.2_Union_New.png)
+<br>![](/exercises/1_DataMarketplace/images/Union.png)
 
 Ignore any yellow warning message on the Union. This is due to a minor mistake in the data product for the energy prices and will not have any negative effect going forward.
 
@@ -59,6 +59,8 @@ Note: The OData API for SAP DSP only provides access to DSP artefacts which are 
 
 3. One last action: Let us deploy the Analytical Dataset. 
 <br>![](/exercises/1_DataMarketplace/images/08-Deploy.png)
+
+Deploy anyway in case of a warning. 
 
 Note that you will be informed that Analytic Models are the new way to go to prepare data for consumption in Datasphere. That is true but in this exercise we are still using the analytical datasets as it was created back in 2022 already.
 
