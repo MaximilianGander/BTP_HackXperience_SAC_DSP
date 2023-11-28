@@ -28,7 +28,7 @@ In this exercise, you will create a Smart Predict scenario with the energy price
 
 ![Screenshot6](/exercises/5_Create_A_Smart_Predict_Scenario/images/Predictive.png)
 
-7. Turn on the toggle to convert negative forecast values to zero and choose "Amount" and "Energy Price / GWh" in the dropdowns "Include As Influencers". Do not forget to click on the validation icon to validate that the influencer will be used. 
+7. Turn on the toggle to convert negative forecast values to zero and choose "Amount" and "Energy Price / MWh" in the dropdowns "Include As Influencers". Do not forget to click on the validation icon to validate that the influencer will be used. 
 
 8. Afterwards click on "Train & Forecast".
 
