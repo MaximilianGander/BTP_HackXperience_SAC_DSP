@@ -28,11 +28,11 @@ In this exercise, you will create a multi action with two steps.
 
 6. For the Model choose "Model 1" and "Predictive Forecast" as a version.
 
-![Screenshot14](https://github.com/SAP-samples/HackXperience2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot14.PNG)
+![Screenshot14](/exercises/6_Create_A_Multi_Action/images/Screenshot14.PNG)
 
 7. Click on the "Add version Management Step" - icon in the toolbar to add an other step.
 
-![Screenshot15](https://github.com/SAP-samples/HackXperience2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot15.PNG)
+![Screenshot15](/exercises/6_Create_A_Multi_Action/images/Screenshot15.PNG)
 
 8. Select a Model in the Panel on the right. Navigate to your HackXperience folder in My Files and select the "COPY_SAP_FI_CLM_IM_LIQUIDITY_PLANNING" model by clicking on it.
 
