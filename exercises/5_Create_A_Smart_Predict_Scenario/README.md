@@ -24,9 +24,9 @@ In this exercise, you will create a Smart Predict scenario with the energy price
 
 ![Screenshot5](/exercises/5_Create_A_Smart_Predict_Scenario/images/5_ModelSelection.png)
 
-6. In the Settings panel on the right, choose "Amount" as a measure, "Energy Expenses" as an account, "Time" as a date, "12" for the number of periods and "Company Code" & "Transaction Currency" for the Entity.
+6. In the Settings panel on the right, choose "Amount" as a measure, "Energy Expenses" as an account, "Time" as a date, "12" for the number of periods and "SAP BP Company Code" & "Transaction Currency" for the Entity.
 
-![Screenshot6](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot6.PNG)
+![Screenshot6](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Predictive.png)
 
 7. Turn on the toggle to convert negative forecast values to zero and choose "Amount" and "Energy Price / GWh" in the dropdowns "Include As Influencers". Do not forget to click on the validation icon to validate that the influencer will be used. 
 
